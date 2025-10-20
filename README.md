@@ -2,8 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bartosz-p-465a268a/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BartBoxi)
-[![Email](https://img.shields.io/badge/📧_Email-Me-red?style=for-the-badge)](mailto:your.email@example.com)
-[![Resume](https://img.shields.io/badge/📄_CV-Download-green?style=for-the-badge)](./Bartosz%20Pudło%20CV%202025%20(5).pdf)
+
 
 ---
 
