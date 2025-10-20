@@ -2,6 +2,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bartosz-p-465a268a/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BartBoxi)
+![Visitors](https://komarev.com/ghpvc/?username=BartBoxi&style=for-the-badge&color=0e75b6)
+
 
 
 ---
@@ -20,21 +22,54 @@ I’m most excited about **Python for Data Analytics**, **AI integration**, and 
 ## 🧠 Technical Skills  
 
 ### 💾 Data & Programming  
-- **Languages:** Python, SQL  
-- **Libraries:** Pandas, Matplotlib, Flask  
+- **Languages:** Python, SQL, HTML, JavaScript, PHP
+- **Libraries:** Pandas, NumPy, Matplotlib, Flask 
 - **Data Visualization:** Looker, PLX, Custom HTML/CSS dashboards  
-- **Data Storytelling:** Building interactive, insight-driven dashboards  
+- **Data Storytelling:** Building interactive, insight-driven dashboards
+- **Automation:** Python scripting for data workflows and reporting  
+
 
 ### ☁️ Cloud & Infrastructure  
 - **Platform:** Google Cloud Platform (GCP)  
 - **Services:** BigQuery, CloudSQL, Cloud Spanner, BigTable, GKE, Storage  
-- **AI/ML:** Gemini API, ML model design for conversational analytics  
+- **AI/ML:** Gemini API, Conversational Analytics solutions  
+- **DevOps:** CI/CD, IAM Policies, Code Version Control  
 
 ### ⚙️ Other Tools & Skills  
 - Git / Version Control  
 - CI/CD & Codebase Management  
 - Data Security (IAM, Access Policies)  
-- API Integration & Automation  
+- API Integration & Automation
+
+### 🎨 Frontend & Web Development  
+- **Core:** HTML5, CSS3, JavaScript, PHP  
+- **Styling:** Tailwind CSS (learning), Responsive Design, Animation effects  
+- **Hosting:** AWS S3 Static Hosting, GitHub Pages  
+- **UI/UX:** Clean, modern, and interactive design principles  
+
+## 🧰 Tech Stack Badges  
+
+### 🐍 Data & Programming  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Looker](https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+
+### ☁️ Cloud & Infrastructure  
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![GKE](https://img.shields.io/badge/GKE-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=google-bigquery&logoColor=white)
+![CloudSQL](https://img.shields.io/badge/CloudSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+### 🌐 Frontend Development  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ---
 
@@ -75,23 +110,19 @@ AGH University of Science & Technology, Kraków (2015–2020)
 
 ## 🧰 Tech Stack Badges  
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=databricks&logoColor=white)
-![Looker](https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![GKE](https://img.shields.io/badge/GKE-4285F4?style=for-the-badge&logo=kubernetes&logoColor=white)
-![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=google-bigquery&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
 ---
 
 ## 📊 GitHub Stats  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BartBoxi&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BartBoxi&layout=compact&theme=tokyonight)
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BartBoxi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BartBoxi&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=BartBoxi&theme=tokyonight&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=BartBoxi&theme=tokyo-night&hide_border=true)
+
+</div>
 
 ---
 
