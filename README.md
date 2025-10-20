@@ -19,6 +19,17 @@ I’m most excited about **Python for Data Analytics**, **AI integration**, and 
 
 ---
 
+
+## 🧩 Featured Projects  
+
+### 🏗️ [New Build Story Website](https://github.com/BartBoxi/Jozek_website)
+A professional, interactive construction company website built with **HTML, CSS, PHP**, hosted on **AWS S3**.  
+Currently planning a rebuild using **Tailwind CSS** and a dynamic backend.
+
+*(More data projects to come soon — stay tuned!)*
+
+--- 
+
 ## 🧠 Technical Skills  
 
 ### 💾 Data & Programming  
@@ -124,15 +135,6 @@ AGH University of Science & Technology, Kraków (2015–2020)
 
 </div>
 
----
-
-## 🧩 Featured Projects  
-
-### 🏗️ [New Build Story Website](https://github.com/BartBoxi/Jozek_website)
-A professional, interactive construction company website built with **HTML, CSS, PHP**, hosted on **AWS S3**.  
-Currently planning a rebuild using **Tailwind CSS** and a dynamic backend.
-
-*(More data projects to come soon — stay tuned!)*
 
 ---
 
